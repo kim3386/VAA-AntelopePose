@@ -2,7 +2,7 @@
 
 # Project Overview
 
-From our [Abstract](weekly_meetings/Resources.pdf):
+From our [Abstract](weekly_meetings):
 
 Our research aims to increase the robustness and efficiency of antelope pose estimation models through refining the ground-truth labels of keypoints and compressing the training dataset by filtering for similar species.
 
@@ -16,7 +16,7 @@ Through our efforts to improve model performance in keypoint estimation for spec
 
 
 # [Weekly Meetings](weekly_meetings)
-[Meeting Template](weekly_meetings/VAA-weekly-meeting-template-v240820.pptx)
+[Meeting Template](weekly_meetings/VAA-weekly-meeting-template-v240820.pdf)
 
 [Resources and Links](weekly_meetings/Resources.pdf)
 
