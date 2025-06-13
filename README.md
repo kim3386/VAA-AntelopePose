@@ -15,7 +15,7 @@ Through our efforts to improve model performance in keypoint estimation for spec
 [Keypoint Definitions](weekly_meetings/Resources.pdf)
 
 
-# Weekly Meetings
+# [Weekly Meetings] (weekly_meetings)
 [Meeting Template](weekly_meetings/VAA-weekly-meeting-template-v240820.pptx)
 
 [Resources and Links](weekly_meetings/Resources.pdf)
