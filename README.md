@@ -2,7 +2,7 @@
 
 # Project Overview
 
-From our [Abstract](weekly_meetings):
+From our [Spring 2025 abstract](definitions_documentations/spring2025/SP25___Final_Report_250507.pdf):
 
 Our research aims to increase the robustness and efficiency of antelope pose estimation models through refining the ground-truth labels of keypoints and compressing the training dataset by filtering for similar species.
 
@@ -12,7 +12,7 @@ We utilize three categories of methods to focus an off-theshelf pose estimation 
 
 Through our efforts to improve model performance in keypoint estimation for specifically Antelopes, we contribute to improving keypoint estimation for all animals.
 
-[Keypoint Definitions](weekly_meetings/Resources.pdf)
+[Keypoint Definitions](definitions_documentations/keypoint_definitions)
 
 
 # [Weekly Meetings](weekly_meetings)
