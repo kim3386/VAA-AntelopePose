@@ -16,6 +16,8 @@ Through our efforts to improve model performance in keypoint estimation for spec
 
 
 # [Weekly Meetings](weekly_meetings)
+
+The weekly meetings are a series of presentation slides detailing the week-by-week progress of the project. In case you need to refer back to previous work or tasks from other team members, it is good to check the weekly meeting slides.
 [Meeting Template](weekly_meetings/templates/VAA-weekly-meeting-template-v250114.pdf)
 
 [Resources and Links](weekly_meetings/templates/Resources.pdf)
