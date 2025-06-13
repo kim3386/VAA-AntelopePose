@@ -1,20 +1,19 @@
 
 
 # Project Overview
-[Keypoint Definitions](https://docs.google.com/document/d/1Qg-QImNqLKi0MnqrdQnch6sdimtGSjdt3uGXARiN8Yk/edit?tab=t.0#heading=h.8viik9z0huyz)
 
-# Individual Progress Report
-[Josh](individual_reports/josh.md)
+From our [Abstract](weekly_meetings/Resources.pdf):
 
-[Medha](individual_reports/medha.md)
+Our research aims to increase the robustness and efficiency of antelope pose estimation models through refining the ground-truth labels of keypoints and compressing the training dataset by filtering for similar species.
 
-[Claire](individual_reports/claire.md)
+We focus on AP-10K, a prominent animal pose dataset, which we observe to have inconsistent keypoint definitions across images, hindering model performance. To address this, we create two distinct keypoint definitions. First, in an effort to have more consistently labeled images, we create a “Visible” keypoint definition, in which we choose the most visibly apparent features, enabling easier and more consistent labeling. Second, we focus on the biologically accurate point for keypoints, which would be harder for labelers, but could allow the model to better generalize on the features.
 
-[Parth](individual_reports/parth.md)
+We utilize three categories of methods to focus an off-theshelf pose estimation model’s training data to only include species morphologically similar to Antelopes: handcrafted measures (the normalized variance of each keypoint’s distance from the animals’ centroid and normalized limb lengths), traditional feature extraction (ORB), and deep learning features (extracted by Meta’s DINOv2 transformer model.
 
-[Shaan](individual_reports/shaan.md)
+Through our efforts to improve model performance in keypoint estimation for specifically Antelopes, we contribute to improving keypoint estimation for all animals.
 
-[Zian](individual_reports/zian.md)
+[Keypoint Definitions](weekly_meetings/Resources.pdf)
+
 
 # Weekly Meetings
 [Meeting Template](weekly_meetings/VAA-weekly-meeting-template-v240820.pptx)
